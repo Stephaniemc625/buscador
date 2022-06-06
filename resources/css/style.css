@@ -1,0 +1,447 @@
+.html,
+  body {
+    /* Para que funcione correctamente en Smarthpones y Tablets */
+	height: 100vh;
+	margin: 0;
+}
+
+body {
+    /* Ruta relativa o completa a la imagen */
+	/*Quitar comentario*/
+	/*background-image: url(https://www.unitec.mx/videos/licenciaturas-d.jpg);*/
+    /* Centramos el fondo horizontal y verticalmente */
+	background-position: center center;
+    /* El fonde no se repite */
+	background-repeat: no-repeat;
+    /* Fijamos la imagen a la ventana para que no supere el alto de la ventana */
+	background-attachment: fixed;
+    /* El fonde se re-escala automáticamente */
+	background-size: cover;
+    /* Color de fondo si la imagen no se encuentra o mientras se está cargando */
+	background-color: #FFF;
+    /* Fuente para el texto */
+	text-align: left;
+	color: #000;
+	font-family: "Roboto Light", sans-serif;
+}
+
+video::-webkit-media-controls {
+	display: none;
+}
+
+.travel-hero-bg {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+	display: block;
+	position: fixed;
+	margin: 0!important;
+	height: 100vh!important;
+	width: 100%!important;
+	top: 0!important;
+	left: 0!important;
+	right: 0!important;
+	bottom: 0!important;
+	text-align: center;
+}
+
+.travel-hero {
+	height: 100vh;
+	animation: b .8s ease-out both;
+}
+
+.travel-hero-content {
+	padding-top: 20vh;
+	margin: 2%;
+	padding-left: 2%;
+}
+
+.travel-hero-heading {
+	color: #fff;
+	font-size: 2.188rem;
+	font-family: "Roboto", sans-serif;
+	letter-spacing: normal;
+	animation: a .4s .2s ease-in-out both;
+	font-weight: 400;
+	text-align: center;
+}
+
+.travel-hero-subheading {
+	color: #fff;
+	font-size: 1.75rem;
+	font-family: "Roboto Ligth", sans-serif;
+	letter-spacing: 1px;
+	animation: a .4s .25s ease-in-out both;
+	padding-bottom: 1%;
+	width: 80%;
+	font-weight: 300;
+	margin-top: 1%;
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.travel-hero-search .amstart-btn {
+	animation: a .4s .4s ease-in-out both;
+	font-family: "Roboto", sans-serif;
+	justify-content: center;
+	text-decoration: none;
+	align-items: center;
+	position: absolute;
+	font-size: 1.25rem;
+	font-weight: 400;
+	margin-top: 85px;
+	display: flex;
+	color: #fff;
+	width: 10%;
+}
+
+.amstart-btn:visited {
+	color: #fff;
+}
+
+.amstart-btn-lic {
+	background-color: #f68b1f;
+}
+
+.amstart-btn {
+	padding: .75rem 1.5rem;
+	background-color: #f68b1f;
+	border-radius: 4px;
+}
+
+.mb1 {
+	margin-bottom: .5rem;
+}
+
+.mb2 {
+	margin-bottom: 1.5rem;
+}
+
+center {
+	text-align: center;
+}
+
+.w3-animate-bottom {
+	position: relative;
+	animation: animatebottom 0.4s;
+}
+
+@keyframes animatebottom {
+	from {
+		bottom: -300px;
+		opacity: 0;
+	}
+
+	to {
+		bottom: 0;
+		opacity: 1;
+	}
+}
+
+.w3-animate-bottom {
+	position: relative;
+	animation: animatebottom .4s .4s ease-in-out both;
+}
+
+.w3-animate-opacity {
+	animation: opac 0.8s;
+}
+
+@keyframes opac {
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
+}
+
+.w3-animate-zoom {
+	animation: animatezoom 0.6s;
+}
+
+@keyframes animatezoom {
+	from {
+		transform: scale(0);
+	}
+
+	to {
+		transform: scale(1);
+	}
+}
+
+.video-background-holder {
+	position: absolute;
+	background: linear-gradient(to right, rgba(0, 0, 0, .7), rgba(0, 0, 0, .5), rgba(0, 0, 0, 0.3));
+	height: calc(100vh - 0px);
+	min-height: 25rem;
+	width: 100%;
+	overflow: hidden;
+	z-index: 0;
+}
+
+.video-background-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: linear-gradient(to right, rgba(0, 0, 0, .7), rgba(0, 0, 0, .5), rgba(0, 0, 0, 0.3));
+	opacity: .5;
+	z-index: 1;
+}
+
+.video-background-holder video {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	z-index: 0;
+	-ms-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+}
+  /* Background para ancho máximo de la pantalla física */
+
+@media only screen and (max-device-width: 768px) {
+	body {
+		/*Quitar comentario*/
+		/*background-image: url(https://www.unitec.mx/videos/licenciaturas-v.jpg);*/
+		color: #FFF;
+	}
+
+	.travel-hero-bg {
+		text-align: center;
+		background-image: linear-gradient(to right, rgba(0, 0, 0, .4), rgba(0, 0, 0, .3), rgba(0, 0, 0, 0.2));
+	}
+
+	.travel-hero-content {
+		padding-top: 10vh;
+		padding-left: 0;
+	}
+
+	.contBuscador {
+		width: 100% !important;
+	}
+
+	::-webkit-input-placeholder {
+      /* Edge */
+		color: #cccccc;
+		font-weight: 300;
+		font-size: .75rem;
+	}
+
+	:-ms-input-placeholder {
+      /* Internet Explorer 10-11 */
+		color: #cccccc;
+		font-weight: 300;
+		font-size: .75rem;
+	}
+
+	::placeholder {
+		color: #cccccc;
+		font-weight: 300;
+		font-size: .75rem;
+	}
+
+	.search {
+		width: 80% !important;
+	}
+
+	.travel-hero-search .amstart-btn {
+		width: 30% !important;
+		;
+	}
+
+	ul {
+		width: 97% !important;
+		padding: 0px 0px !important;
+	}
+
+	ul > li {
+		padding: 8px 15px !important;
+		color: #757575;
+      /* border-bottom: solid 1px #CDCDCD; */;
+	}
+
+	.mb1 {
+		margin-bottom: 1.5rem;
+	}
+
+	.travel-hero-heading {
+		color: #fff;
+		font-size: 4vh;
+		font-family: "Roboto Medium", sans-serif;
+		letter-spacing: normal;
+		animation: a .4s .2s ease-in-out both;
+		padding-left: 0%;
+		padding-right: 0%;
+	}
+
+	.travel-hero-subheading {
+		color: #fff;
+		font-size: 3vh;
+		font-family: "Roboto Light", sans-serif;
+		letter-spacing: 1px;
+		animation: a .4s .25s ease-in-out both;
+		padding-bottom: 5%;
+		width: 100%;
+		padding-left: 0%;
+		padding-right: 0%;
+	}
+}
+  /* Background para ancho máximo del navegador */
+
+@media only screen and (max-width: 768px) {
+	body {
+		/*Quitar comentario*/
+		/*background-image: url(https://www.unitec.mx/videos/licenciaturas-v.jpg);*/
+		color: #FFF;
+	}
+    /* Dimensiones del div principal */
+	#lorem {
+		width: 90%;
+		margin: auto;
+		padding: 10px;
+	}
+    /* Color del Link */
+	a {
+		color: yellow;
+		text-decoration: none;
+	}
+    /* Texto justificado del párrafo */
+	p {
+		text-align: justify;
+	}
+}
+
+.video-ampv {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	min-width: 110vw;
+	min-height: 100%;
+	height: 150vh;
+	z-index: -100;
+	transform: translateX(-50%) translateY(-50%);
+	background-size: cover;
+	transition: 1s opacity;
+}
+
+@media (max-width: 40rem) {
+	.xs-hide {
+		display: none;
+	}
+}
+
+@media (orientation: landscape) {
+	.video-back-horizontal {
+		display: block;
+	}
+}
+
+@media (max-width: 52rem) and (min-width: 40.06rem) {
+	.sm-hide {
+		display: none;
+	}
+}
+
+@media (min-width: 72.06rem) {
+	.lg-hide {
+		display: none;
+	}
+}
+  /*Estilos Buscador*/
+
+.search-form {
+	margin-bottom: 3rem;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.search {
+	font-family: "Roboto light", sans-serif;
+	border-bottom: 4px solid #09c;
+	border-color: transparent;
+	border-radius: 2px;
+	background: #fff;
+	font-size: 1rem;
+	padding: 0 1.5%;
+	outline: none;
+	height: 2.8rem;
+	width: 70%;
+	color: #555;
+	margin: 0;
+	box-shadow: 0 1px 6px 0 rgba(0, 111, 186, 1);
+}
+
+.busqueda input {
+	padding-left: 50px;
+	/*Quitar comentario*/
+	/*background-image: url("https://image.flaticon.com/icons/svg/1086/1086933.svg");*/
+	background-size: 20px 20px;
+	background-repeat: no-repeat;
+	background-position: 10px 13px;
+	color: #5a5a5a;
+	text-decoration-color: #006fba;
+}
+
+::-webkit-input-placeholder {
+    /* Edge */
+	color: #cccccc;
+	font-weight: 300;
+}
+
+:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+	color: #cccccc;
+	font-weight: 300;
+}
+
+::placeholder {
+	color: #cccccc;
+	font-weight: 300;
+}
+
+.contBuscador {
+    /* display: flex; */
+	width: 80%;
+}
+
+ul {
+	background-color: #fff;
+	list-style-type: none;
+	position: relative;
+	padding: 0 0.5%;
+	overflow: auto;
+	width: 60.3%;
+	margin: 0;
+}
+
+ul > li {
+	font-family: "Roboto Light", sans-serif;
+	font-size: 1rem;
+	cursor: pointer;
+	text-align: left;
+	padding: 10px 15px;
+	margin: 5px 0px;
+	color: #757575;
+    /*border-radius: 3px;*/;
+}
+
+ul > li:hover {
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+	background-color: #f68b1f;
+	border-radius: 3px;
+	color: #fff;
+}
+
+.inhabilitado {
+	color: #fff;
+	cursor: default;
+}

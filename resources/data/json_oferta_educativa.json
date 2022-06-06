@@ -1,0 +1,456 @@
+{
+    "data": [
+        {
+            "searchBanner": "Especialidad en Endodoncia",
+            "linkBanner": "https://www.unitec.mx/especialidad-en-endodoncia/"
+        },
+        {
+            "searchBanner": "Especialidad en Odontología Pediátrica",
+            "linkBanner": "https://www.unitec.mx/especialidad-en-odontologia-pediatrica/"
+        },
+        {
+            "searchBanner": "Especialidad en Odontología Restauradora",
+            "linkBanner": "https://www.unitec.mx/especialidad-en-odontologia-restauradora/"
+        },
+        {
+            "searchBanner": "Especialidad en Ortodoncia",
+            "linkBanner": "https://www.unitec.mx/especialidad-en-ortodoncia/"
+        },
+        {
+            "searchBanner": "Especialidad en Periodoncia",
+            "linkBanner": "https://www.unitec.mx/especialidad-en-periodoncia/"
+        },
+        {
+            "searchBanner": "Ingeniería Ambiental y Sustentabilidad",
+            "linkBanner": "https://www.unitec.mx/ingenieria-ambiental-y-sustentabilidad/"
+        },
+        {
+            "searchBanner": "Ingeniería Civil",
+            "linkBanner": "https://www.unitec.mx/ingenieria-civil/"
+        },
+        {
+            "searchBanner": "Ingeniería en Ciencia de Datos",
+            "linkBanner": "https://www.unitec.mx/ingenieria-en-ciencia-de-datos/"
+        },
+        {
+            "searchBanner": "Ingeniería en Electrónica y Telecomunicaciones",
+            "linkBanner": "https://www.unitec.mx/ingenieria-en-electronica-y-telecomunicaciones/"
+        },
+        {
+            "searchBanner": "Ingeniería en Gestión de Negocios",
+            "linkBanner": "https://www.unitec.mx/ingenieria-en-gestion-de-negocios/"
+        },
+        {
+            "searchBanner": "Ingeniería en Logística",
+            "linkBanner": "https://www.unitec.mx/ingenieria-en-logistica/"
+        },
+        {
+            "searchBanner": "Ingeniería en Robótica y Sistemas Digitales",
+            "linkBanner": "https://www.unitec.mx/ingenieria-en-robotica-y-sistemas-digitales/"
+        },
+        {
+            "searchBanner": "Ingeniería en Sistemas Computacionales",
+            "linkBanner": "https://www.unitec.mx/ingenieria-en-sistemas-computacionales/"
+        },
+        {
+            "searchBanner": "Ingeniería en Sistemas de Software",
+            "linkBanner": "https://www.unitec.mx/ingenieria-en-sistemas-de-software/"
+        },
+        {
+            "searchBanner": "Ingeniería en Software y Redes",
+            "linkBanner": "https://www.unitec.mx/ingenieria-en-software-y-redes/"
+        },
+        {
+            "searchBanner": "Ingeniería Industrial y Administración",
+            "linkBanner": "https://www.unitec.mx/ingenieria-industrial-y-administracion/"
+        },
+        {
+            "searchBanner": "Ingeniería Industrial y de Sistemas",
+            "linkBanner": "https://www.unitec.mx/ingenieria-industrial-y-de-sistemas/"
+        },
+        {
+            "searchBanner": "Ingeniería Mecánica",
+            "linkBanner": "https://www.unitec.mx/ingenieria-mecanica/"
+        },
+        {
+            "searchBanner": "Ingeniería Mecatrónica",
+            "linkBanner": "https://www.unitec.mx/ingenieria-mecatronica/"
+        },
+        {
+            "searchBanner": "Ingeniería Química",
+            "linkBanner": "https://www.unitec.mx/ingenieria-quimica/"
+        },
+        {
+            "searchBanner": "Licenciatura en Actuaría",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-actuaria/"
+        },
+        {
+            "searchBanner": "Licenciatura en Administración de Empresas",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-administracion-de-empresas/"
+        },
+        {
+            "searchBanner": "Licenciatura en Administración de Empresas de Entretenimiento y Comunicación",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-administracion-de-empresas-de-entretenimiento-y-comunicacion/"
+        },
+        {
+            "searchBanner": "Licenciatura en Administración de Recursos Humanos",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-administracion-de-recursos-humanos/"
+        },
+        {
+            "searchBanner": "Licenciatura en Administración de Tecnologías de Información",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-administracion-de-tecnologias-de-informacion/"
+        },
+        {
+            "searchBanner": "Licenciatura en Administración Financiera",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-administracion-financiera/"
+        },
+        {
+            "searchBanner": "Licenciatura en Administración Pública",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-administracion-publica/"
+        },
+        {
+            "searchBanner": "Licenciatura en Arquitectura",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-arquitectura/"
+        },
+        {
+            "searchBanner": "Licenciatura en Ciencias de la Comunicación",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-ciencias-de-la-comunicacion/"
+        },
+        {
+            "searchBanner": "Licenciatura en Cirujano Dentista",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-cirujano-dentista/"
+        },
+        {
+            "searchBanner": "Licenciatura en Comercio Internacional",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-comercio-internacional/"
+        },
+        {
+            "searchBanner": "Licenciatura en Comunicación y Medios",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-comunicacion-y-medios/"
+        },
+        {
+            "searchBanner": "Licenciatura en Contaduría Pública",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-contaduria-publica/"
+        },
+        {
+            "searchBanner": "Licenciatura en Contaduría Pública y Finanzas",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-contaduria-publica-y-finanzas/"
+        },
+        {
+            "searchBanner": "Licenciatura en Criminología",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-criminologia/"
+        },
+        {
+            "searchBanner": "Licenciatura en Cultura Física y Deportes",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-cultura-fisica-y-deportes/"
+        },
+        {
+            "searchBanner": "Licenciatura en Derecho",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-derecho/"
+        },
+        {
+            "searchBanner": "Licenciatura en Diseño de Interiores",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-diseno-de-interiores/"
+        },
+        {
+            "searchBanner": "Licenciatura en Diseño de Modas",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-diseno-de-modas/"
+        },
+        {
+            "searchBanner": "Licenciatura en Diseño Digital y Animación",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-diseno-digital-y-animacion/"
+        },
+        {
+            "searchBanner": "Licenciatura en Diseño Gráfico",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-diseno-grafico/"
+        },
+        {
+            "searchBanner": "Licenciatura en Diseño Gráfico y Comunicación Visual",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-diseno-grafico-y-comunicacion-visual/"
+        },
+        {
+            "searchBanner": "Licenciatura en Diseño Industrial",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-diseno-industrial/"
+        },
+        {
+            "searchBanner": "Licenciatura en Diseño, Animación y Arte Digital",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-diseno-animacion-y-arte-digital/"
+        },
+        {
+            "searchBanner": "Licenciatura en Economía",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-economia/"
+        },
+        {
+            "searchBanner": "Licenciatura en Economía y Finanzas",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-economia-y-finanzas/"
+        },
+        {
+            "searchBanner": "Licenciatura en Educación",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-educacion/"
+        },
+        {
+            "searchBanner": "Licenciatura en Enfermería",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-enfermeria/"
+        },
+        {
+            "searchBanner": "Licenciatura en Finanzas",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-finanzas/"
+        },
+        {
+            "searchBanner": "Licenciatura en Física Aplicada",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-fisica-aplicada/"
+        },
+        {
+            "searchBanner": "Licenciatura en Fisioterapia",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-fisioterapia/"
+        },
+        {
+            "searchBanner": "Licenciatura en Gastronomía",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-gastronomia/"
+        },
+        {
+            "searchBanner": "Licenciatura en Gestión de Ventas y Comercialización",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-gestion-de-ventas-y-comercializacion/"
+        },
+        {
+            "searchBanner": "Licenciatura en Historia",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-historia/"
+        },
+        {
+            "searchBanner": "Licenciatura en Lengua y Literatura Hispánica",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-lengua-y-literatura-hispanica/"
+        },
+        {
+            "searchBanner": "Licenciatura en Lenguas Extranjeras",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-lenguas-extranjeras/"
+        },
+        {
+            "searchBanner": "Licenciatura en Matemáticas Aplicadas",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-matematicas-aplicadas/"
+        },
+        {
+            "searchBanner": "Licenciatura en Medicina",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-medicina/"
+        },
+        {
+            "searchBanner": "Licenciatura en Mercadotecnia",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-mercadotecnia/"
+        },
+        {
+            "searchBanner": "Licenciatura en Mercadotecnia Digital y Publicidad",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-mercadotecnia-digital-y-publicidad/"
+        },
+        {
+            "searchBanner": "Licenciatura en Negocios Internacionales",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-negocios-internacionales/"
+        },
+        {
+            "searchBanner": "Licenciatura en Nutrición",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-nutricion/"
+        },
+        {
+            "searchBanner": "Licenciatura en Pedagogía",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-pedagogia/"
+        },
+        {
+            "searchBanner": "Licenciatura en Psicología",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-psicologia/"
+        },
+        {
+            "searchBanner": "Licenciatura en Publicidad y Medios",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-publicidad-y-medios/"
+        },
+        {
+            "searchBanner": "Licenciatura en Químico Farmacéutico Biólogo",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-quimico-farmaceutico-biologo/"
+        },
+        {
+            "searchBanner": "Licenciatura en Relaciones Internacionales",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-relaciones-internacionales/"
+        },
+        {
+            "searchBanner": "Licenciatura en Sociología",
+            "linkBanner": "https://www.unitec.mx/licenciatura-en-sociologia/"
+        },
+        {
+            "searchBanner": "Licenciatura Internacional en Turismo y Reuniones",
+            "linkBanner": "https://www.unitec.mx/licenciatura-internacional-en-turismo-y-reuniones/"
+        },
+        {
+            "searchBanner": "Maestría en Administración de Negocios (MBA)",
+            "linkBanner": "https://www.unitec.mx/maestria-en-administracion-de-negocios-mba/"
+        },
+        {
+            "searchBanner": "Maestría en Administración de Negocios y Desarrollo Sostenible",
+            "linkBanner": "https://www.unitec.mx/maestria-en-administracion-de-negocios-y-desarrollo-sostenible/"
+        },
+        {
+            "searchBanner": "Maestría en Administración de Negocios y Finanzas",
+            "linkBanner": "https://www.unitec.mx/maestria-en-administracion-de-negocios-y-finanzas/"
+        },
+        {
+            "searchBanner": "Maestría en Administración de Negocios y Gestión del Talento",
+            "linkBanner": "https://www.unitec.mx/maestria-en-administracion-de-negocios-y-gestion-del-talento/"
+        },
+        {
+            "searchBanner": "Maestría en Administración de Negocios y Mercadotecnia",
+            "linkBanner": "https://www.unitec.mx/maestria-en-administracion-de-negocios-y-mercadotecnia/"
+        },
+        {
+            "searchBanner": "Maestría en Administración de Negocios y Turismo",
+            "linkBanner": "https://www.unitec.mx/maestria-en-administracion-de-negocios-y-turismo/"
+        },
+        {
+            "searchBanner": "Maestría en Administración Pública",
+            "linkBanner": "https://www.unitec.mx/maestria-en-administracion-publica/"
+        },
+        {
+            "searchBanner": "Maestría en Analítica e Inteligencia de Negocios",
+            "linkBanner": "https://www.unitec.mx/maestria-en-analitica-e-inteligencia-de-negocios/"
+        },
+        {
+            "searchBanner": "Maestría en Bioestadística y Políticas Públicas",
+            "linkBanner": "https://www.unitec.mx/maestria-en-bioestadistica-y-politicas-publicas/"
+        },
+        {
+            "searchBanner": "Maestría en Derecho",
+            "linkBanner": "https://www.unitec.mx/maestria-en-derecho/"
+        },
+        {
+            "searchBanner": "Maestría en Derecho Civil y Mercantil",
+            "linkBanner": "https://www.unitec.mx/maestria-en-derecho-civil-y-mercantil/"
+        },
+        {
+            "searchBanner": "Maestría en Derecho Constitucional y Amparo",
+            "linkBanner": "https://www.unitec.mx/maestria-en-derecho-constitucional-y-amparo/"
+        },
+        {
+            "searchBanner": "Maestría en Derecho Corporativo",
+            "linkBanner": "https://www.unitec.mx/maestria-en-derecho-corporativo/"
+        },
+        {
+            "searchBanner": "Maestría en Derecho y Criminologia",
+            "linkBanner": "https://www.unitec.mx/maestria-en-derecho-y-criminologia/"
+        },
+        {
+            "searchBanner": "Maestría en Derecho y Proceso Penal Acusatorio",
+            "linkBanner": "https://www.unitec.mx/maestria-en-derecho-proceso-penal-acusatorio/"
+        },
+        {
+            "searchBanner": "Maestría en Desarrollo Empresarial Sostenible",
+            "linkBanner": "https://www.unitec.mx/maestria-en-desarrollo-empresarial-sostenible/"
+        },
+        {
+            "searchBanner": "Maestría en Dirección de Empresas de Manufactura y Diseño de Productos",
+            "linkBanner": "https://www.unitec.mx/maestria-en-direccion-de-empresas-de-manufactura-y-diseno-de-productos/"
+        },
+        {
+            "searchBanner": "Maestría en Dirección de Empresas de Manufactura y Gestión de Calidad",
+            "linkBanner": "https://www.unitec.mx/maestria-en-direccion-de-empresas-de-manufactura-y-gestion-de-calidad/"
+        },
+        {
+            "searchBanner": "Maestría en Dirección de Empresas de Manufactura y Logística",
+            "linkBanner": "https://www.unitec.mx/maestria-en-direccion-de-empresas-de-manufactura-y-logistica/"
+        },
+        {
+            "searchBanner": "Maestría en Dirección de la Comunicación",
+            "linkBanner": "https://www.unitec.mx/maestria-en-direccion-de-la-comunicacion/"
+        },
+        {
+            "searchBanner": "Maestría en Dirección de la Construcción y Diseño Arquitectónico Sustentable",
+            "linkBanner": "https://www.unitec.mx/maestria-en-direccion-de-la-construccion-y-diseno-arquitectonico-sustentable/"
+        },
+        {
+            "searchBanner": "Maestría en Dirección de la Construcción y Diseño de Espacios Interiores",
+            "linkBanner": "https://www.unitec.mx/maestria-en-direccion-de-la-construccion-y-diseno-de-espacios-interiores/"
+        },
+        {
+            "searchBanner": "Maestría en Dirección de la Construcción y Gestión de Proyectos",
+            "linkBanner": "https://www.unitec.mx/maestria-en-direccion-de-la-construccion-y-gestion-de-proyectos/"
+        },
+        {
+            "searchBanner": "Maestría en Dirección de la Construcción y Planeación Urbana",
+            "linkBanner": "https://www.unitec.mx/maestria-en-direccion-de-la-construccion-y-planeacion-urbana/"
+        },
+        {
+            "searchBanner": "Maestría en Dirección de Organizaciones de Salud",
+            "linkBanner": "https://www.unitec.mx/maestria-en-direccion-de-organizaciones-de-salud/"
+        },
+        {
+            "searchBanner": "Maestría en Dirección de Proyectos",
+            "linkBanner": "https://www.unitec.mx/maestria-en-direccion-de-proyectos/"
+        },
+        {
+            "searchBanner": "Maestría en Diseño Multimedia",
+            "linkBanner": "https://www.unitec.mx/maestria-en-diseno-multimedia/"
+        },
+        {
+            "searchBanner": "Maestría en Educación",
+            "linkBanner": "https://www.unitec.mx/maestria-en-educacion/"
+        },
+        {
+            "searchBanner": "Maestría en Educación y Dirección de Instituciones Educativas",
+            "linkBanner": "https://www.unitec.mx/maestria-en-educacion-y-direccion-de-instituciones-educativas/"
+        },
+        {
+            "searchBanner": "Maestría en Educación y Evaluación Educativa",
+            "linkBanner": "https://www.unitec.mx/maestria-en-educacion-y-evaluacion-educativa/"
+        },
+        {
+            "searchBanner": "Maestría en Educación y Necesidades Especiales",
+            "linkBanner": "https://www.unitec.mx/maestria-en-educacion-y-necesidades-especiales/"
+        },
+        {
+            "searchBanner": "Maestría en Educación y Tecnología Educativa",
+            "linkBanner": "https://www.unitec.mx/maestria-en-educacion-y-tecnologia-educativa/"
+        },
+        {
+            "searchBanner": "Maestría en Finanzas",
+            "linkBanner": "https://www.unitec.mx/maestria-en-finanzas/"
+        },
+        {
+            "searchBanner": "Maestría en Impuestos",
+            "linkBanner": "https://www.unitec.mx/maestria-en-impuestos/"
+        },
+        {
+            "searchBanner": "Maestría en Juicios Orales",
+            "linkBanner": "https://www.unitec.mx/maestria-en-juicios-orales/"
+        },
+        {
+            "searchBanner": "Maestría en Mercadotecnia Digital",
+            "linkBanner": "https://www.unitec.mx/maestria-en-mercadotecnia-digital/"
+        },
+        {
+            "searchBanner": "Maestría en Migración de Sistemas",
+            "linkBanner": "https://www.unitec.mx/maestria-en-migracion-de-sistemas/"
+        },
+        {
+            "searchBanner": "Maestría en Psicología",
+            "linkBanner": "https://www.unitec.mx/maestria-en-psicologia/"
+        },
+        {
+            "searchBanner": "Maestría en Seguridad de Tecnología de Información",
+            "linkBanner": "https://www.unitec.mx/maestria-en-seguridad-de-tecnologia-de-informacion/"
+        },
+        {
+            "searchBanner": "Prepa Bilingüe",
+            "linkBanner": "https://www.unitec.mx/prepa-bilingue/"
+        },
+        {
+            "searchBanner": "Prepa en Línea",
+            "linkBanner": "https://www.unitec.mx/prepa-en-linea/"
+        },
+        {
+            "searchBanner": "Prepa Plan de Estudios SEP",
+            "linkBanner": "https://www.unitec.mx/prepa-unitec/"
+        },
+        {
+            "searchBanner": "Prepa Plan de Estudios UAEM",
+            "linkBanner": "https://www.unitec.mx/prepa-uaem/"
+        },
+        {
+            "searchBanner": "Prepa Plan de Estudios UNAM",
+            "linkBanner": "https://www.unitec.mx/prepa-unam/"
+        }
+    ]
+}
